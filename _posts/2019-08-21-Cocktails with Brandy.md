@@ -23,7 +23,8 @@ tags:
 
 
 ##### Bermuda Highball
-![Bermuda-Highball](https://www.thedrinkkings.com/wp-content/uploads/2014/05/Bombay-Highball-9-630x785.jpg)
+![Bermuda-Highball](https://www.thedrinkkings.com/wp-content/uploads/2014/05/Bombay-Highball-9-630x785.jpg){:height="100px" width="400px"}
+
 
 [图片来源](https://www.thedrinkkings.com/bermuda-highball-recipe/)
 
@@ -43,12 +44,13 @@ tags:
 [图片来源](https://barmanitalia.it/block-and-fall/)	
 
 ##### Side Car
-![Side-Car](https://cdn.liquor.com/wp-content/uploads/2019/05/22111906/sidecar-720x720-recipe.jpg)
+![Side-Car](https://cdn.liquor.com/wp-content/uploads/2019/05/22111906/sidecar-720x720-recipe.jpg){:height="100px" width="400px"}
+
 
 [图片来源](https://www.liquor.com/recipes/sidecar/#gs.yb4ecd)
 
 ##### Cognac Tropical
-![Cognac-Tropical](https://www.cocktailscout.de/user_img/recipe/28/big/b7a73c80925d58d96dcacec836cba506.jpg)
+![Cognac-Tropical](https://www.cocktailscout.de/user_img/recipe/28/big/b7a73c80925d58d96dcacec836cba506.jpg){:height="100px" width="400px"}
 
 [图片来源](https://www.cocktailscout.de/rezepte/cognac-tropical)
 
