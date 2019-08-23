@@ -45,4 +45,4 @@ tags:
 ![Summertime](img/cocktails/7-summertime.jpg)
 
 ##### Sunset
-![Sunset](https://cocktailflow.com/cocktail/red-brandy-sunset)
+![Sunset](https://images.cocktailflow.com/v1/cocktail/w_300,h_540/cocktail_red_brandy_sunset-1.png)
