@@ -23,20 +23,20 @@ tags:
 
 
 ##### Bermuda Highball
-![Bermuda-Highball](img/cocktails/1-bermuda-highball.jpg)
+![Bermuda-Highball](https://www.thedrinkkings.com/wp-content/uploads/2014/05/Bombay-Highball-9-630x785.jpg)
 
 
-##### Carpril Cocktail
-![Carpril-Cocktail](img/cocktails/2-carpril-cocktail.jpg)
+##### Capri Cocktail
+![Carpril-Cocktail](https://img.chefkoch-cdn.de/rezepte/1733621282408794/bilder/1117613/crop-360x240/capri-cocktail.jpg)
 	
 ##### Cognac Sour
-![Cognac-Sour](img/cocktails/3-cognac-cour.jpg)
+![Cognac-Sour](https://vikalinka.com/wp-content/uploads/2014/10/MG_0945.jpg)
 
 ##### Block and Fall
-![Block-and-Fall](img/cocktails/4-block-and-fall.jpeg)	
+![Block-and-Fall](https://barmanitalia.it/wp-content/uploads/2013/04/angel-face-cocktail.jpeg)	
 	
 ##### Side Car
-![Side-Car](img/cocktails/5-side-car.jpg)
+![Side-Car](https://www.seriouseats.com/recipes/images/2014/09/20140910-cocktail-techniques-michael-deitsch-orange-twist-vicky-wasik-50.jpg)
 
 ##### Cognac Tropical
 ![Cognac-Tropical](img/cocktails/6-cognac-tropical.jpg)
