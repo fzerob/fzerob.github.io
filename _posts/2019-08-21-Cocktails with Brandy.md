@@ -30,19 +30,19 @@ tags:
 ![Carpril-Cocktail](img/cocktails/2-carpril-cocktail.jpg)
 	
 ##### Cognac Sour
-![Cognac-Sour](img/cocktails/3-cognac-cour.JPG)
+![Cognac-Sour](img/cocktails/3-cognac-cour.jpg)
 
 ##### Block and Fall
-![Block-and-Fall](img/cocktails/4-block-and-fall.JPEG)	
+![Block-and-Fall](img/cocktails/4-block-and-fall.jpeg)	
 	
 ##### Side Car
-![Side-Car](img/cocktails/5-side-car.JPG)
+![Side-Car](img/cocktails/5-side-car.jpg)
 
 ##### Cognac Tropical
-![Cognac-Tropical](img/cocktails/6-cognac-tropical.JPG)
+![Cognac-Tropical](img/cocktails/6-cognac-tropical.jpg)
 
 ##### Summertime
-![Summertime](img/cocktails/7-summertime.JPG)
+![Summertime](img/cocktails/7-summertime.jpg)
 
 ##### Sunset
-![Sunset](img/cocktails/16-sunset.JPG)
+![Sunset](img/cocktails/16-sunset.jpg)
