@@ -34,23 +34,23 @@ tags:
 [图片来源](https://www.chefkoch.de/rezepte/1733621282408794/Capri-Cocktail.html)
 	
 ##### Cognac Sour
-![Cognac-Sour](https://vikalinka.com/wp-content/uploads/2014/10/MG_0945.jpg)
+![Cognac-Sour](https://vikalinka.com/wp-content/uploads/2014/10/MG_0945.jpg){:height="100px"}
 
 [图片来源](https://vikalinka.com/cognac-sour/)
 
 ##### Block and Fall
-![Block-and-Fall](https://barmanitalia.it/wp-content/uploads/2013/04/angel-face-cocktail.jpeg)	
+![Block-and-Fall](https://barmanitalia.it/wp-content/uploads/2013/04/angel-face-cocktail.jpeg){:height="100px"}
 
 [图片来源](https://barmanitalia.it/block-and-fall/)	
 
 ##### Side Car
-![Side-Car](https://cdn.liquor.com/wp-content/uploads/2019/05/22111906/sidecar-720x720-recipe.jpg){:height="100px" width="400px"}
+![Side-Car](https://cdn.liquor.com/wp-content/uploads/2019/05/22111906/sidecar-720x720-recipe.jpg){:height="100px"}
 
 
 [图片来源](https://www.liquor.com/recipes/sidecar/#gs.yb4ecd)
 
 ##### Cognac Tropical
-![Cognac-Tropical](https://www.cocktailscout.de/user_img/recipe/28/big/b7a73c80925d58d96dcacec836cba506.jpg){:height="100px" width="400px"}
+![Cognac-Tropical](https://www.cocktailscout.de/user_img/recipe/28/big/b7a73c80925d58d96dcacec836cba506.jpg){:height="100px"}
 
 [图片来源](https://www.cocktailscout.de/rezepte/cognac-tropical)
 
@@ -67,6 +67,6 @@ tags:
 	1,2,3与冰块一起刚入7中。用4将7补满。5，6装饰。
 
 ##### Sunset
-![Sunset](https://images.cocktailflow.com/v1/cocktail/w_300,h_540/cocktail_red_brandy_sunset-1.png)
+![Sunset](https://images.cocktailflow.com/v1/cocktail/w_300,h_540/cocktail_red_brandy_sunset-1.png){:height="100px"}
 
 [图片来源](https://cocktailflow.com/cocktail/red-brandy-sunset)
