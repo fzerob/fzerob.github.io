@@ -4,7 +4,7 @@ title:      Cocktails
 subtitle:   Mix with Brandy / Cognac / Weinbrand
 date:       2019-08-22
 author:     fzerob
-header-img: img/cocktails/post-bg-Brandy.jpg
+header-img: img/cocktails/post-bg-cocktails.JPG
 catalog: true
 tags:
     - cocktail
