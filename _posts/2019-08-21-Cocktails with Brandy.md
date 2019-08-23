@@ -25,24 +25,46 @@ tags:
 ##### Bermuda Highball
 ![Bermuda-Highball](https://www.thedrinkkings.com/wp-content/uploads/2014/05/Bombay-Highball-9-630x785.jpg)
 
+[图片来源](https://www.thedrinkkings.com/bermuda-highball-recipe/)
 
 ##### Capri Cocktail
-![Carpril-Cocktail](https://img.chefkoch-cdn.de/rezepte/1733621282408794/bilder/1117613/crop-360x240/capri-cocktail.jpg)
+![Carpril-Cocktail](https://img.chefkoch-cdn.de/rezepte/1733621282408794/bilder/1115647/crop-600x400/capri-cocktail.jpg)
+
+[图片来源](https://www.chefkoch.de/rezepte/1733621282408794/Capri-Cocktail.html)
 	
 ##### Cognac Sour
 ![Cognac-Sour](https://vikalinka.com/wp-content/uploads/2014/10/MG_0945.jpg)
 
+[图片来源](https://vikalinka.com/cognac-sour/)
+
 ##### Block and Fall
 ![Block-and-Fall](https://barmanitalia.it/wp-content/uploads/2013/04/angel-face-cocktail.jpeg)	
-	
+
+[图片来源](https://barmanitalia.it/block-and-fall/)	
+
 ##### Side Car
-![Side-Car](https://www.seriouseats.com/recipes/images/2014/09/20140910-cocktail-techniques-michael-deitsch-orange-twist-vicky-wasik-50.jpg)
+![Side-Car](https://cdn.liquor.com/wp-content/uploads/2019/05/22111906/sidecar-720x720-recipe.jpg)
+
+[图片来源](https://www.liquor.com/recipes/sidecar/#gs.yb4ecd)
 
 ##### Cognac Tropical
-![Cognac-Tropical](img/cocktails/6-cognac-tropical.jpg)
+![Cognac-Tropical](https://www.cocktailscout.de/user_img/recipe/28/big/b7a73c80925d58d96dcacec836cba506.jpg)
+
+[图片来源](https://www.cocktailscout.de/rezepte/cognac-tropical)
 
 ##### Summertime
-![Summertime](img/cocktails/7-summertime.jpg)
+
+	1. 4cl Cognac
+	2. 1cl Cassis
+	3. 1cl frischer Zitronensaft
+	4. 10cl Ginger Ale
+	5. 1/2 Orangenscheibe
+	6. 2 Cocktailkirschen
+	7. Longdrinkglas
+	
+	1,2,3与冰块一起刚入7中。用4将7补满。5，6装饰。
 
 ##### Sunset
 ![Sunset](https://images.cocktailflow.com/v1/cocktail/w_300,h_540/cocktail_red_brandy_sunset-1.png)
+
+[图片来源](https://cocktailflow.com/cocktail/red-brandy-sunset)
