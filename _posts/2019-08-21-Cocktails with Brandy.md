@@ -45,4 +45,4 @@ tags:
 ![Summertime](img/cocktails/7-summertime.jpg)
 
 ##### Sunset
-![Sunset](img/cocktails/16-sunset.jpg)
+![Sunset](img/cocktails/16-sunset.png)
