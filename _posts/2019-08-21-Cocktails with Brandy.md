@@ -34,7 +34,7 @@ tags:
 [图片来源](https://www.chefkoch.de/rezepte/1733621282408794/Capri-Cocktail.html)
 	
 ##### Cognac Sour
-![Cognac-Sour-w50](https://vikalinka.com/wp-content/uploads/2014/10/MG_0945.jpg){:height="100px"}
+![Cognac-Sour-w50](https://vikalinka.com/wp-content/uploads/2014/10/MG_0945.jpg)
 
 [图片来源](https://vikalinka.com/cognac-sour/)
 
