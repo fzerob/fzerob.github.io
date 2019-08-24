@@ -28,14 +28,12 @@ tags:
 [图片来源](https://www.gutekueche.at/mojito-cocktail-rezept-17926)
 	
 ##### Banana Dream
-![Banana-Dream](<a href="https://www.tripadvisor.co.uk/LocationPhotoDirectLink-g1207898-d3582338-i258076794-ASTRAL_Cocktail_Bar-Puerto_Banus_Marbella_Costa_del_Sol_Province_of_Mal.html#258076794"><img alt="" src="https://media-cdn.tripadvisor.com/media/photo-s/0f/61/f0/7a/denna-drink-heter-banana.jpg"/></a><br/>)
+[$Recipes$](http://www.cocktaildreams.de/cooldrinks/cocktailrezept.banana-dream.575.html)
 
-This photo of ASTRAL Cocktail Bar is courtesy of TripAdvisor
-
-[图片来源](https://www.tripadvisor.co.uk/LocationPhotoDirectLink-g1207898-d3582338-i258076794-ASTRAL_Cocktail_Bar-Puerto_Banus_Marbella_Costa_del_Sol_Province_of_Mal.html)
+![Banana-Dream-w50](https://static.cuisineaz.com/240x192/i87761-cocktail-banana-dream.png)
 
 
-[Recipes](http://www.cocktaildreams.de/cooldrinks/cocktailrezept.banana-dream.575.html)
+[图片来源](https://www.cuisineaz.com/recettes/cocktail-banana-dream-89162.aspx)
 
 ##### El Presidente
 ![Presidente](https://images.cocktailflow.com/v1/cocktail/w_300,h_540/cocktail_el_presidente-1.png)
