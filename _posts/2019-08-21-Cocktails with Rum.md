@@ -28,7 +28,7 @@ tags:
 [图片来源](https://www.gutekueche.at/mojito-cocktail-rezept-17926)
 	
 ##### Banana Dream
-[$Recipes$](http://www.cocktaildreams.de/cooldrinks/cocktailrezept.banana-dream.575.html)
+[Recipes](http://www.cocktaildreams.de/cooldrinks/cocktailrezept.banana-dream.575.html)
 
 ![Banana-Dream-w50](https://static.cuisineaz.com/240x192/i87761-cocktail-banana-dream.png)
 

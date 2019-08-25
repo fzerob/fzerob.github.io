@@ -4,7 +4,7 @@ title:      Git与Github
 subtitle:   学习笔记
 date:       2019-08-18
 author:     fzerob
-header-img: img/gitandgithub/post-bg-gitandgithub.png
+header-img: img/post-bg-gitandgithub.png
 catalog: true
 tags:
     - git
