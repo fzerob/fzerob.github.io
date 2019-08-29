@@ -4,7 +4,7 @@ title:      python
 subtitle:   学习笔记
 date:       2019-08-25
 author:     fzerob
-header-img: img/gitandgithub/post-bg-gitandgithub.png
+header-img: img/post-bg-python.JPG
 catalog: true
 tags:
     - python
@@ -28,11 +28,14 @@ tags:
 3. difference about ', ", '''/"""
 
 about ' and "
+
 	str1 = 'We all know that \'A\' and \'B\' are two capital letters.'
 	str2 = "We all know that 'A' and 'B' are two capital letters."
+
 about '''
-	1) comment
-	2) multiple line
+	
+	1. comment
+	2. multiple line
  
 4. Five main types inside of python: number, string, list, tuple, dictionary
 
