@@ -996,7 +996,7 @@ Real world object has attributes like color, height and weight. Real world objec
 
     print(animal > do
 
-### e.g.2
+ > e.g.2
 
     class Animal:
         __name = None  # signifies a lack of a value or just quotes ""

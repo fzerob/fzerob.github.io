@@ -1,14 +1,14 @@
 ---
 layout:     post
 title:      Visual Studio Code
-subtitle:   学习笔记
+subtitle:   study notes
 date:       2019-08-29
 author:     fzerob
 header-img: img/post-bg-python.JPG
 catalog: true
 tags:
     - python
-    - 学习笔记
+    - study notes
     - Visual Studio Code (Windows)
 ---
 
@@ -20,7 +20,7 @@ youtube video course in English
 
 The speaker: Corey Shafer
 
-Course Link: [Visual Studio Code (Windows)](https://www.youtube.com/watch?v=-nh9rCzPJ20&list=LLOujATZg4TQCBODShG4Fv9w)
+Course Link: [< Visual Studio Code (Windows) >](https://www.youtube.com/watch?v=-nh9rCzPJ20&list=LLOujATZg4TQCBODShG4Fv9w)
 
 ### Installation - 1:13
 
@@ -195,3 +195,44 @@ one important thing added in this setting is Zen Mode:
 find in CP: type *keyboard shortcuts*, select *Help: Keyboards Shortcus Preference*
 
     control + ~ : open terminal
+
+### [speaker's setting](https://github.com/CoreyMSchafer/dotfiles/blob/master/settings/VSCode-Settings.json)
+
+    {
+    "workbench.colorTheme": "Predawn",
+    "workbench.iconTheme": "ayu",
+    "editor.fontSize": 22,
+    "editor.fontWeight": "500",
+    "editor.fontFamily": "Source Code Pro",
+    "debug.console.fontFamily": "Source Code Pro",
+    "debug.console.fontSize": 22,
+    "terminal.integrated.fontSize": 22,
+    "terminal.integrated.fontWeight": "600",
+    "window.zoomLevel": 2,
+    "python.pythonPath": "/usr/local/bin/python3",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName"
+    },
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.showExecutionMessage": false,
+    "code-runner.ignoreSelection": true,
+    "code-runner.saveFileBeforeRun": true,
+    "[plaintext]": {
+        "editor.quickSuggestions": false
+    },
+    "editor.quickSuggestionsDelay": 100,
+    "zenMode.centerLayout": false,
+    "zenMode.fullScreen": false,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideTabs": false,
+    "editor.minimap.enabled": false,
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.settings.editor": "json",
+    "workbench.statusBar.feedback.visible": false,
+    "workbench.startupEditor": "newUntitledFile",
+    }
+    
