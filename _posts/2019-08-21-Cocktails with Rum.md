@@ -9,33 +9,34 @@ catalog: true
 tags:
     - cocktail
     - Rum
-    - 读书笔记
+    - study notes
 ---
 
-### 关于Rum
+### about Rum
 >
 
+#### Grasshopper
 
-##### Grasshopper 
 ![Grasshopper-w50](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lede-1552514267.png?resize=768:*)
 
+[Source](https://www.esquire.com/food-drink/drinks/a26815938/grasshopper-cocktail-drink-recipe/)
 
-[图片来源](https://www.esquire.com/food-drink/drinks/a26815938/grasshopper-cocktail-drink-recipe/)
+#### Mojito
 
-##### Mojito
 ![Mojito-w50](https://www.gutekueche.at/img/rezept/17926/mojito-cocktail.jpg)
 
-[图片来源](https://www.gutekueche.at/mojito-cocktail-rezept-17926)
-	
-##### Banana Dream
+[Source](https://www.gutekueche.at/mojito-cocktail-rezept-17926)
+
+#### Banana Dream
+
 [Recipes](http://www.cocktaildreams.de/cooldrinks/cocktailrezept.banana-dream.575.html)
 
 ![Banana-Dream-w50](https://static.cuisineaz.com/240x192/i87761-cocktail-banana-dream.png)
 
+[Source](https://www.cuisineaz.com/recettes/cocktail-banana-dream-89162.aspx)
 
-[图片来源](https://www.cuisineaz.com/recettes/cocktail-banana-dream-89162.aspx)
+#### El Presidente
 
-##### El Presidente
 ![Presidente](https://images.cocktailflow.com/v1/cocktail/w_300,h_540/cocktail_el_presidente-1.png)
 
-[图片来源](https://cocktailflow.com/cocktail/el-presidente)
+[Source](https://cocktailflow.com/cocktail/el-presidente)
