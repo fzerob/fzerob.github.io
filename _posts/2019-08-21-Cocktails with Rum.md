@@ -127,14 +127,14 @@ graph TB
     
     rum --> |fill 4| glass
 ```
-<img src="https://galumbi.de/wp-content/uploads/2015/03/Dark-Stormy-1-von-1-2-700x1050.jpg" width="400"/>
+<img src="https://galumbi.de/wp-content/uploads/2015/03/Dark-Stormy-1-von-1-2-700x1050.jpg" width="300"/>
 
 [Source](https://galumbi.de/wp-content/uploads/2015/03/Dark-Stormy-1-von-1-2-700x1050.jpg)
 
 
 ## El Presidente
 
-<img src="https://images.cocktailflow.com/v1/cocktail/w_300,h_540/cocktail_el_presidente-1.png" height="400"/>
+<img src="https://images.cocktailflow.com/v1/cocktail/w_300,h_540/cocktail_el_presidente-1.png" width="300"/>
 
 
 [Source](https://cocktailflow.com/cocktail/el-presidente)
@@ -142,7 +142,7 @@ graph TB
 
 ## Grasshopper
 
-<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lede-1552514267.png?resize=768:*" height="400"/>
+<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lede-1552514267.png?resize=768:*" width="300"/>
 
 [Source](https://www.esquire.com/food-drink/drinks/a26815938/grasshopper-cocktail-drink-recipe/)
 
@@ -224,7 +224,7 @@ graph TB
         shaker -->|3. fill| glass
     end
 ```
-<img src="https://images.eatsmarter.de/sites/default/files/styles/576x432/public/planters-punch-315313.jpg" width=“400”>
+<img src="https://images.eatsmarter.de/sites/default/files/styles/576x432/public/planters-punch-315313.jpg" width="400">
 
 [Source](https://images.eatsmarter.de/sites/default/files/styles/576x432/public/planters-punch-315313.jpg)
 
