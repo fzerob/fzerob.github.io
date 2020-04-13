@@ -127,7 +127,7 @@ graph TB
     
     rum --> |fill 4| glass
 ```
-<img src="https://galumbi.de/wp-content/uploads/2015/03/Dark-Stormy-1-von-1-2-700x1050.jpg" height="400"/>
+<img src="https://galumbi.de/wp-content/uploads/2015/03/Dark-Stormy-1-von-1-2-700x1050.jpg" width="400"/>
 
 [Source](https://galumbi.de/wp-content/uploads/2015/03/Dark-Stormy-1-von-1-2-700x1050.jpg)
 
@@ -142,7 +142,7 @@ graph TB
 
 ## Grasshopper
 
-<img src = "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lede-1552514267.png?resize=768:*" height = "400">
+<img src = "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lede-1552514267.png?resize=768:*" height = "400"/>
 
 [Source](https://www.esquire.com/food-drink/drinks/a26815938/grasshopper-cocktail-drink-recipe/)
 
