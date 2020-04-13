@@ -34,17 +34,17 @@ coming soon ...
 
 ## Cuba Libre
 | Ingredients|    |            |  
-|----------|:-------------:|:-------------:|
+|----------|:-------------|:-------------|
 | 4 | cl |  Bacardi Carta Blanca Rum |
 | ? | cl |  Cola |
 
 | Utensil|          
-|----------|:-------------:|
+|----------|:-------------|
 | Ice cube|
 | Long drink glass|
 
 | Decor|          
-|----------|:-------------:|
+|----------|:-------------|
 |slice of lemon|
 
 ```mermaid
@@ -55,8 +55,9 @@ graph TB
         coda --> glass
     end
  lemon --> |3. decorate| glass
-
 ```
+
+<img src="https://static.essen-und-trinken.de/bilder/0b/51/21368/galleryimage/6e92c6cd6e3f37d4686f79db9269160b.jpg" width = "400">
 
 ## Daiquiri
 
