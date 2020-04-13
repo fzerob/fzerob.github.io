@@ -134,7 +134,7 @@ graph TB
 
 ## El Presidente
 
-<img src="https://images.cocktailflow.com/v1/cocktail/w_300,h_540/cocktail_el_presidente-1.png" height="400"/>
+<img src="https://images.cocktailflow.com/v1/cocktail/w_300,h_540/cocktail_el_presidente-1.png" width= auto height="400"/>
 
 
 [Source](https://cocktailflow.com/cocktail/el-presidente)
@@ -142,7 +142,7 @@ graph TB
 
 ## Grasshopper
 
-<img src = "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lede-1552514267.png?resize=768:*" height = "400"/>
+<img src = "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lede-1552514267.png?resize=768:*" width= auto  height = "400"/>
 
 [Source](https://www.esquire.com/food-drink/drinks/a26815938/grasshopper-cocktail-drink-recipe/)
 
