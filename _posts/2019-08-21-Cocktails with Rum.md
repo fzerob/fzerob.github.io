@@ -228,4 +228,36 @@ graph TB
 
 [Source](https://images.eatsmarter.de/sites/default/files/styles/576x432/public/planters-punch-315313.jpg)
 
+
+# Rum Tonic
+
+| Ingredients|    |            |  
+|----------|:-------------:|:-------------:|
+| 4   | cl | light, brown or dark Rum|
+| ?   | cl | Tonic Water |
+| ?   | cl | lime juice |
+| 1/2 |    | lemon slice |
+
+| Utensil|          
+|----------|:-------------:|
+| ice cubes |
+| long drink glass|
+
+| Decor|          
+|----------|:-------------:|
+|lemon slice|
+
+```mermaid
+graph TB
+    subgraph 1. mix
+        ice --> glass
+        rum --> glass
+    end
+   
+    subgraph 2. fill
+        lemon --> glass
+        Water --> glass
+    end
+```
+
 ## Aged Rum On the Rocks
